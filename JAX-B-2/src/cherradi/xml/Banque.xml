@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<banque>
+    <comptes id="1">
+        <solde>3000.0</solde>
+        <dateCreation>2020-11-09T10:42:50.723+01:00</dateCreation>
+    </comptes>
+    <comptes id="2">
+        <solde>7000.0</solde>
+        <dateCreation>2020-11-09T10:42:50.723+01:00</dateCreation>
+    </comptes>
+    <comptes id="3">
+        <solde>3500.0</solde>
+        <dateCreation>2020-11-09T10:42:50.723+01:00</dateCreation>
+    </comptes>
+    <comptes id="4">
+        <solde>4200.0</solde>
+        <dateCreation>2020-11-09T10:42:50.723+01:00</dateCreation>
+    </comptes>
+    <comptes id="5">
+        <solde>21000.0</solde>
+        <dateCreation>2020-11-09T10:42:50.723+01:00</dateCreation>
+    </comptes>
+</banque>
